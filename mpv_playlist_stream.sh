@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Author: Milen Velikov <root@neosofti.org>
 # Sicherstellen, dass Eingaben immer vom Terminal gelesen werden
 exec </dev/tty
 
